@@ -4,5 +4,6 @@
     "esp_gap_ble_api.h": "c"
   },
   "idf.portWin": "COM4",
-  "idf.flashType": "UART"
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32"
 }
